@@ -15,10 +15,7 @@
   ],
   "author": "David Marcus",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WebsiteBeaver/capacitor-document-scanner.git"
-  },
+  "repository": "https://github.com/afilp/capacitor-document-scanner.git",
   "bugs": {
     "url": "https://github.com/WebsiteBeaver/capacitor-document-scanner/issues"
   },
@@ -44,10 +41,10 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "@capacitor/android": "^5.0.0",
-    "@capacitor/core": "^5.0.0",
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
     "@capacitor/docgen": "^0.0.18",
-    "@capacitor/ios": "^5.0.0",
+    "@capacitor/ios": "^6.0.0",
     "@ionic/eslint-config": "^0.3.0",
     "@ionic/prettier-config": "^1.0.1",
     "@ionic/swiftlint-config": "^1.1.2",
