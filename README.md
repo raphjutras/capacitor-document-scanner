@@ -1,6 +1,5 @@
 # Capacitor Document Scanner
 
-[![Npm package version](https://img.shields.io/npm/v/capacitor-document-scanner/latest.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/capacitor-document-scanner) [![npm peer dependency version](https://img.shields.io/npm/dependency-version/capacitor-document-scanner/peer/@capacitor/core?color=222d3a&logo=capacitor&style=for-the-badge)](https://github.com/WebsiteBeaver/capacitor-document-scanner/blob/master/package.json)
 
 This is a Capacitor plugin that lets you scan documents using Android and iOS. You can use it to create
 apps that let users scan notes, homework, business cards, receipts, or anything with a rectangular shape.
@@ -197,6 +196,13 @@ Opens the camera, and starts the document scan
 </docgen-api>
 
 ## License
+Copyright 2024 Raphaël Jutras
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Copyright 2022 David Marcus
 
